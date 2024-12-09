@@ -3,54 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Netscan - Network Utility</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        header {
-            background-color: #007BFF;
-            color: white;
-            padding: 15px 30px;
-            text-align: center;
-        }
-        main {
-            padding: 20px;
-        }
-        section {
-            background-color: white;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            margin: 20px 0;
-            padding: 20px;
-        }
-        h2 {
-            color: #007BFF;
-        }
-        code {
-            background-color: #f8f9fa;
-            padding: 5px;
-            border-radius: 4px;
-        }
-        .btn {
-            background-color: #007BFF;
-            color: white;
-            padding: 10px 15px;
-            text-decoration: none;
-            border-radius: 5px;
-            font-weight: bold;
-        }
-        footer {
-            background-color: #343a40;
-            color: white;
-            padding: 10px;
-            text-align: center;
-        }
-    </style>
 </head>
 <body>
 
